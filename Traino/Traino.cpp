@@ -5,7 +5,13 @@
 //-----------------------------------------------
  
 // Constructor
-Traino::Traino(){
+Traino::Traino() {/**/}
+
+// Destructor
+Traino::~Traino() {/**/}
+
+// Begin - Harus dipanggil di dalam setup()
+Traino::begin(){
 
     // Inisialisasi variabel private
     _data_shift = 0;
@@ -44,9 +50,6 @@ Traino::Traino(){
     */
     // dst.
 }
- 
-// Destructor
-Traino::~Traino(){/**/}
 
 // Cek apakah rotary encoder diputar maju 
 bool Traino::encoderForward() {

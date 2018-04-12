@@ -50,6 +50,7 @@ class Traino {
     public:
         Traino();
         ~Traino();
+        void begin();
         bool encoderForward();
         bool encoderBack();
         bool encoderButton();
