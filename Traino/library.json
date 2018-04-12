@@ -1,0 +1,19 @@
+{
+    "name": "Traino",
+    "keywords": "trainer, komputronika",
+    "description": "Library untuk Traino",
+    "authors": {
+        "name": "Komputronika",
+        "url": "https://github.com/komputronika"
+    },
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/komputronika/traino"
+    },
+    "version": "1.0.0",
+    "exclude": ["doc"],
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+    
+}
