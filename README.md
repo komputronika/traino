@@ -1,2 +1,3 @@
-# traino
-Trainer for Arduino
+# Traino
+Trainer for Arduino.
+(Sedang dalam pengembangan)
