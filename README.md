@@ -9,5 +9,7 @@ Untuk menggunakan library ini, silahkan copy folder Traino ke folder library and
 
 ### Lokasi library Arduino
 **Mac**: In (folder home)/Documents/Arduino/Libraries
+
 **Windows**: My Documents\Arduino\libraries
+
 **Linux**: (folder home)/sketchbook/libraries
